@@ -7,3 +7,4 @@
 
 
 ![lstm_node](https://user-images.githubusercontent.com/122410192/226494190-6df5dd46-7679-48fb-bd0d-24133c2776da.png)
+![General definitions about LSTM](https://user-images.githubusercontent.com/122410192/226495176-11860479-2ee8-4d2a-beea-ad745a5b799e.png)
